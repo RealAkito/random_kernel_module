@@ -15,9 +15,10 @@ abort() {
 cleanup() {
   rm -rf $MODPATH/common 2>/dev/null
   ui_print " "
-  ui_print "    **************************************"
-  ui_print "    *   MMT Extended by Zackptg5 @ XDA   *"
-  ui_print "    **************************************"
+  ui_print "    *******************************************"
+  ui_print "    *        Simple Kernel Module 10  1       *"
+  ui_print "    * Engine : MMT Extended by Zackptg5 @ XDA *"
+  ui_print "    *******************************************"
   ui_print " "
 }
 

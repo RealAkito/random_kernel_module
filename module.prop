@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=haruka_kernel_module
+name=Inject kernel modules systemlessly
+version=v1
+versionCode=1
+author=RealAkito
+description=A simple way to patch a kernel module without having much hassle, on dynamic devices specially.
+support=https://t.me/HarukaKernel
